@@ -6,7 +6,8 @@
 - 🤖 Robotics software/hardware used - rospy, roscpp, mavros, Gazebo, ArduCopter, Webots
 - 🔗 More info about my projects on my [LinkedIn](https://www.linkedin.com/in/christopher-harris-eng/)
 
-# Past Projects
+# Some Past Projects
+In addition to internships and uni work, here are some more notable/interesting projects
 ## ELSOC Hardware Flex
 Created a 10x10 LED matrix for UNSW ELSOC's Hardware Flex competition.  
 [Repo](https://github.com/chrisharris000/led_matrix)  
