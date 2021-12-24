@@ -1,5 +1,5 @@
 # *Very* creative intro of myself
-- 👋 Hi, I’m Chris H
+- 👋 Hi, I’m Chris
 - 👀 I’m interested in robotics/automation, light installations and making my life easier through code
 - 🏫 I currently study at the University of New South Wales (UNSW, Sydney)
 - 💻 Currently/have used Python/MicroPython, C/C++ and MATLAB
@@ -8,7 +8,7 @@
 
 # Some Past Projects
 In addition to internships and uni work, here are some more notable/interesting projects
-## ELSOC Hardware Flex
+## ELSOC Hardware Flex 2021 S2
 Created a 10x10 LED matrix for UNSW ELSOC's Hardware Flex competition.  
 [Repo](https://github.com/chrisharris000/led_matrix)  
 [Submission Video](https://www.facebook.com/watch/?v=1130298184040604&ref=sharing)  
